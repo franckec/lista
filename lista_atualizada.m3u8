@@ -1,0 +1,1390 @@
+#EXTM3U
+
+#EXTINF:-1, SBT RJ
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?ChannelsON
+#EXTINF:-1, SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?ChannelsON
+#EXTINF:-1, SBT Caruaru
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
+#EXTINF:-1, SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?ChannelsON
+#EXTINF:-1, SBT Imperatriz
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?ChannelsON
+#EXTINF:-1, TV Summer
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1820117447.m3u8
+#EXTINF:-1, CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:-1, DW NEWS
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1, ABN KIDS
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1, RETRÔ TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+#EXTINF:-1, RETRÔ MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1, CANAL 26
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1, TVE
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1, TV Educativa
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?ChannelsON
+#EXTINF:-1, TV Cultura PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1, CATVE PR
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?ChannelsON
+#EXTINF:-1, MasterTV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+#EXTINF:-1, Rede RC BA
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1, Rede Minas MG
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1, TV Diário do Sertão PB
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+#EXTINF:-1, TV FAAP SP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1, IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?ChannelsON?
+#EXTINF:-1, Rede Gospel
+http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8
+#EXTINF:-1, TV RADIO JORNAL
+http://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w653587283.m3u8
+#EXTINF:-1, Hunter FM
+http://live.hunterfm.com/live
+#EXTINF:-1, Cana da Galileia
+http://servidor28.brlogic.com:8336/live
+#EXTINF:-1, Gospel Campinas
+http://centova.nardele.com.br:4343/stream
+#EXTINF:-1, Radio Beat 98
+http://s23.hstbr.net:8072/live
+#EXTINF:-1, Radio Atlanta
+http://143.208.11.104:8064/stream
+#EXTINF:-1, Antena 1
+http://a1rj.streams.com.br:7801/sm
+#EXTINF:-1, USP FM
+http://flow.emm.usp.br:8007/radiousp-128.mp3
+#EXTINF:-1, Vibe FM
+http://servidor36.brlogic.com:8180/live
+#EXTINF:-1, Fanatica FM
+http://noasrv.caster.fm:10156/live
+#EXTINF:-1, Transamerica
+http://transamerica.crossradio.com.br:9114/live.mp3
+#EXTINF:-1, Truckers FM
+https://radio.truckers.fm/
+#EXTINF:-1, Vagalume Vibe
+https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
+#EXTINF:-1, Vagalume Funk
+https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
+#EXTINF:-1, Vagalume Sertanejo Hits
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+#EXTINF:-1, Vagalume Pagode
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+#EXTINF:-1, Rádio Energia
+http://audio.97fm.com.br/energia
+#EXTINF:-1, JB FM
+https://20823.live.streamtheworld.com/JBFM.mp3?pname=TdPlayerApi&pversion=2.5&banners=&sbmid=e190d544-81ad-44ce-f431-bef4877dbe80
+#EXTINF:-1, 98 FM
+http://streaming13.hstbr.net:8072/live
+#EXTINF:-1, 93 FM
+https://18133.live.streamtheworld.com/FM93_SC
+#EXTINF:-1, Antena 1
+http://antena1.newradio.it/stream2?ext=.mp3
+#EXTINF:-1, SulAmerica Paradiso RJ
+https://20323.live.streamtheworld.com/SULAMERICA_SC
+#EXTINF:-1, Itapoan FM
+http://streaming.livecenter.com.br:9300/stream/1/
+#EXTINF:-1, Atlantida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=960888114
+#EXTINF:-1, Feliz FM SP
+http://felizfm.sateg.com.br:11520/stream/1/
+#EXTINF:-1, Guaiba FM
+http://cast4.audiostream.com.br:8007/app
+#EXTINF:-1, S30 MaxCast Web Rádio
+http://s30.maxcast.com.br:8190/live
+#EXTINF:-1, RÁDIO 104 FM
+http://cast4.audiostream.com.br:8651/mp3
+#EXTINF:-1, RÁDIO ATLÂNTIDA FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1, RÁDIO CAIÇARA FM/AM
+http://cast4.audiostream.com.br:8654/mp3
+#EXTINF:-1, RÁDIO CAPÃO FM
+http://cast4.audiostream.com.br:8656/mp3
+#EXTINF:-1, RÁDIO CONTINENTAL FM
+http://cast4.audiostream.com.br:8650/mp3
+#EXTINF:-1, RÁDIO ELDORADO FM
+http://cast4.audiostream.com.br:8652/mp3
+#EXTINF:-1, RÁDIO FM PREMIUM
+http://cast4.audiostream.com.br:8663/mp3
+#EXTINF:-1, RÁDIO GRENAL FM
+http://cast4.audiostream.com.br:8649/mp3
+#EXTINF:-1, RÁDIO IMBÉ FM
+http://cast4.audiostream.com.br:8660/mp3
+#EXTINF:-1, RÁDIO LIBERDADE FM
+http://cast4.audiostream.com.br:8655/mp3
+#EXTINF:-1, RÁDIO PAMPA FM
+http://cast4.audiostream.com.br:8653/mp3
+#EXTINF:-1,WARNER CHANNEL HD
+http://solutionplay.xyz:8080/techruthes/61897946/6486
+#EXTINF:-1,MEGAPIX HD
+http://solutionplay.xyz:8080/techruthes/61897946/6457
+#EXTINF:-1,A&E HD
+http://solutionplay.xyz:8080/techruthes/61897946/6427
+#EXTINF:-1,RECORD SP HD
+http://solutionplay.xyz:8080/techruthes/61897946/6358
+#EXTINF:-1,HGTV HD
+http://solutionplay.xyz:8080/techruthes/61897946/6081
+#EXTINF:-1,Liga da Justiça
+https://x.filmes.click/m0/d/791373-720p.mp4
+#EXTINF:-1,Globo RJ HD
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1,Globo RJ SD
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1,Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1,Band News
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+#EXTINF:-1,Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1,France 24
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1,Globo RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1,Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1,RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1,RedeTV! SP
+http://177.20.208.58:8000/play/a03p/index.m3u8
+#EXTINF:-1,Rewind TV
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+#EXTINF:-1,TV Alternativa (TV Gazeta MA)
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+#EXTINF:-1,TV Brasil
+https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
+#EXTINF:-1,TV Cidade Verde (SBT PI)
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
+#EXTINF:-1,TV Manchete
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:-1,TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1,SBT SD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
+#EXTINF:-1,SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1,SBT RJ HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8
+#EXTINF:-1,SBT RJ SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b176000_sleng.m3u8
+#EXTINF:-1,SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+#EXTINF:-1,SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:-1,SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+#EXTINF:-1,SBT PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1,RECORD SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+#EXTINF:-1,RECORD SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1,RECORD RJ
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
+#EXTINF:-1,RECORD RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1,Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1,Globo RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1,Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1,Record TV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1,PORTAL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/82.m3u8
+#EXTINF:-1,AGRO CANAL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/10.m3u8
+#EXTINF:-1,AGRO BRASIL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/7.m3u8
+#EXTINF:-1,AMC
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/14.m3u8
+#EXTINF:-1,AMERICA LATINO
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/16.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/18.m3u8
+#EXTINF:-1,BAND
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/19.m3u8
+#EXTINF:-1,BOA VONTADE TV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/21.m3u8
+#EXTINF:-1,BOOMERANG
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/22.m3u8
+#EXTINF:-1,BRA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/24.m3u8
+#EXTINF:-1,CANÇÃO NOVA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/25.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/26.m3u8
+#EXTINF:-1,CINE BRASIL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/145.m3u8
+#EXTINF:-1,CLASSIC HITS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/27.m3u8
+#EXTINF:-1,CNN BRASIL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/28.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/29.m3u8
+#EXTINF:-1,CULTURA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/32.m3u8
+#EXTINF:-1,CULT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/30.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/33.m3u8
+#EXTINF:-1,DISCOVERY HOME HELTH
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/35.m3u8
+#EXTINF:-1,DISCOVERY ID
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/36.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/37.m3u8
+#EXTINF:-1,DISCOVERY SCI
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/38.m3u8
+#EXTINF:-1,DISCOVERY THEATER
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/39.m3u8
+#EXTINF:-1,DISCOVERY TLC
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/40.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/41.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/42.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/45.m3u8
+#EXTINF:-1,DISNEY JR
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/46.m3u8
+#EXTINF:-1,DISNEY XD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/47.m3u8
+#EXTINF:-1,ESPN 2
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/49.m3u8
+#EXTINF:-1,ESPN BRASIL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/50.m3u8
+#EXTINF:-1,ESPN EXTRA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/51.m3u8
+#EXTINF:-1,ESPN INT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/60.m3u8
+#EXTINF:-1,FASHION TV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/61.m3u8
+#EXTINF:-1,FISH TV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/62.m3u8
+#EXTINF:-1,STAR LIFE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/64.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/66.m3u8
+#EXTINF:-1,FOX SPORTS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/65.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/63.m3u8
+#EXTINF:-1,FUTURA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/67.m3u8
+#EXTINF:-1,FX
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/68.m3u8
+#EXTINF:-1,GAZETA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/69.m3u8
+#EXTINF:-1,GLOBO MINAS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/70.m3u8
+#EXTINF:-1,HGTV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/71.m3u8
+#EXTINF:-1,HITTS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/72.m3u8
+#EXTINF:-1,LOADING TV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/142.m3u8
+#EXTINF:-1,MAP KIDS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/143.m3u8
+#EXTINF:-1,MASTER TV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/74.m3u8
+#EXTINF:-1,MEGA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/75.m3u8
+#EXTINF:-1,MTV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/76.m3u8
+#EXTINF:-1,MTV LIVE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/140.m3u8
+#EXTINF:-1,MUSIC BOX
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/77.m3u8
+#EXTINF:-1,NAT GEO
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/78.m3u8
+#EXTINF:-1,NICKELODEON
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/80.m3u8
+#EXTINF:-1,PARAMOUNT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/81.m3u8
+#EXTINF:-1,PRIME BOX
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/83.m3u8
+#EXTINF:-1,RATIMBUM
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/84.m3u8
+#EXTINF:-1,RECORD MINAS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/96.m3u8
+#EXTINF:-1,RECORD NEWS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/97.m3u8
+#EXTINF:-1,REDE GENESIS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/98.m3u8
+#EXTINF:-1,REDE METROPOLE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/99.m3u8
+#EXTINF:-1,REDE MINAS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/101.m3u8
+#EXTINF:-1,REDE TV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/102.m3u8
+#EXTINF:-1,REDE VIDA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/103.m3u8
+#EXTINF:-1,SBT ALTEROSA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/104.m3u8
+#EXTINF:-1,SCH
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/105.m3u8
+#EXTINF:-1,SECULO 21
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/106.m3u8
+#EXTINF:-1,SESC TV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/107.m3u8
+#EXTINF:-1,SPACE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/110.m3u8
+#EXTINF:-1,TCM
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/112.m3u8
+#EXTINF:-1,TNT SÉRIES
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/117.m3u8
+#EXTINF:-1,TNT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/116.m3u8
+#EXTINF:-1,TRAVEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/124.m3u8
+#EXTINF:-1,TRUTV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/130.m3u8
+#EXTINF:-1,TV APARECIDA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/131.m3u8
+#EXTINF:-1,TV BRASIL 2
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/135.m3u8
+#EXTINF:-1,TV BRASIL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/134.m3u8
+#EXTINF:-1,TV CÂMARA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/136.m3u8
+#EXTINF:-1,TV ESCOLA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/137.m3u8
+#EXTINF:-1,TV JUSTIÇA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/138.m3u8
+#EXTINF:-1,TV SENADO
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/139.m3u8
+#EXTINF:-1,VRT CHANNEL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/146.m3u8
+#EXTINF:-1,WOOHOO
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/141.m3u8
+#EXTINF:-1,RÁDIO BOSSA NOVA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/85.m3u8
+#EXTINF:-1,RÁDIO FESTA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/86.m3u8
+#EXTINF:-1,RÁDIO LOUNGE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/87.m3u8
+#EXTINF:-1,RÁDIO METAL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/89.m3u8
+#EXTINF:-1,RÁDIO MÚSICA CLÁSSICA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/88.m3u8
+#EXTINF:-1,RÁDIO NEW ROCK
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/90.m3u8
+#EXTINF:-1,RÁDIO TRILHAS SONORAS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/95.m3u8
+#EXTINF:-1,RÁDIO PAGODE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/91.m3u8
+#EXTINF:-1,RÁDIO POP HITS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/92.m3u8
+#EXTINF:-1,RÁDIO POP ROCK
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/93.m3u8
+#EXTINF:-1,PORTAL
+http://168.205.87.198:8555/live/elienecp/123456/82.ts
+#EXTINF:-1,AGRO CANAL
+http://168.205.87.198:8555/live/elienecp/123456/10.ts
+#EXTINF:-1,AGRO BRASIL
+http://168.205.87.198:8555/live/elienecp/123456/7.ts
+#EXTINF:-1,AMC
+http://168.205.87.198:8555/live/elienecp/123456/14.ts
+#EXTINF:-1,AMERICA LATINO
+http://168.205.87.198:8555/live/elienecp/123456/16.ts
+#EXTINF:-1,ANIMAL PLANET
+http://168.205.87.198:8555/live/elienecp/123456/18.ts
+#EXTINF:-1,BAND
+http://168.205.87.198:8555/live/elienecp/123456/19.ts
+#EXTINF:-1,BOA VONTADE TV
+http://168.205.87.198:8555/live/elienecp/123456/21.ts
+#EXTINF:-1,BOOMERANG
+http://168.205.87.198:8555/live/elienecp/123456/22.ts
+#EXTINF:-1,BRA
+http://168.205.87.198:8555/live/elienecp/123456/24.ts
+#EXTINF:-1,CANÇÃO NOVA
+http://168.205.87.198:8555/live/elienecp/123456/25.ts
+#EXTINF:-1,CARTOON NETWORK
+http://168.205.87.198:8555/live/elienecp/123456/26.ts
+#EXTINF:-1,CINE BRASIL
+http://168.205.87.198:8555/live/elienecp/123456/145.ts
+#EXTINF:-1,CLASSIC HITS
+http://168.205.87.198:8555/live/elienecp/123456/27.ts
+#EXTINF:-1,CNN BRASIL
+http://168.205.87.198:8555/live/elienecp/123456/28.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://168.205.87.198:8555/live/elienecp/123456/29.ts
+#EXTINF:-1,CULTURA
+http://168.205.87.198:8555/live/elienecp/123456/32.ts
+#EXTINF:-1,CULT
+http://168.205.87.198:8555/live/elienecp/123456/30.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://168.205.87.198:8555/live/elienecp/123456/33.ts
+#EXTINF:-1,DISCOVERY HOME HELTH
+http://168.205.87.198:8555/live/elienecp/123456/35.ts
+#EXTINF:-1,DISCOVERY ID
+http://168.205.87.198:8555/live/elienecp/123456/36.ts
+#EXTINF:-1,DISCOVERY KIDS
+http://168.205.87.198:8555/live/elienecp/123456/37.ts
+#EXTINF:-1,DISCOVERY SCI
+http://168.205.87.198:8555/live/elienecp/123456/38.ts
+#EXTINF:-1,DISCOVERY THEATER
+http://168.205.87.198:8555/live/elienecp/123456/39.ts
+#EXTINF:-1,DISCOVERY TLC
+http://168.205.87.198:8555/live/elienecp/123456/40.ts
+#EXTINF:-1,DISCOVERY TURBO
+http://168.205.87.198:8555/live/elienecp/123456/41.ts
+#EXTINF:-1,DISCOVERY WORLD
+http://168.205.87.198:8555/live/elienecp/123456/42.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://168.205.87.198:8555/live/elienecp/123456/45.ts
+#EXTINF:-1,DISNEY JR
+http://168.205.87.198:8555/live/elienecp/123456/46.ts
+#EXTINF:-1,DISNEY XD
+http://168.205.87.198:8555/live/elienecp/123456/47.ts
+#EXTINF:-1,ESPN 2
+http://168.205.87.198:8555/live/elienecp/123456/49.ts
+#EXTINF:-1,ESPN BRASIL
+http://168.205.87.198:8555/live/elienecp/123456/50.ts
+#EXTINF:-1,ESPN EXTRA
+http://168.205.87.198:8555/live/elienecp/123456/51.ts
+#EXTINF:-1,ESPN INT
+http://168.205.87.198:8555/live/elienecp/123456/60.ts
+#EXTINF:-1,FASHION TV
+http://168.205.87.198:8555/live/elienecp/123456/61.ts
+#EXTINF:-1,FISH TV
+http://168.205.87.198:8555/live/elienecp/123456/62.ts
+#EXTINF:-1,STAR LIFE
+http://168.205.87.198:8555/live/elienecp/123456/64.ts
+#EXTINF:-1,FOX SPORTS 2
+http://168.205.87.198:8555/live/elienecp/123456/66.ts
+#EXTINF:-1,FOX SPORTS
+http://168.205.87.198:8555/live/elienecp/123456/65.ts
+#EXTINF:-1,STAR CHANNEL
+http://168.205.87.198:8555/live/elienecp/123456/63.ts
+#EXTINF:-1,FUTURA
+http://168.205.87.198:8555/live/elienecp/123456/67.ts
+#EXTINF:-1,FX
+http://168.205.87.198:8555/live/elienecp/123456/68.ts
+#EXTINF:-1,GAZETA
+http://168.205.87.198:8555/live/elienecp/123456/69.ts
+#EXTINF:-1,GLOBO MINAS
+http://168.205.87.198:8555/live/elienecp/123456/70.ts
+#EXTINF:-1,HGTV
+http://168.205.87.198:8555/live/elienecp/123456/71.ts
+#EXTINF:-1,HITTS
+http://168.205.87.198:8555/live/elienecp/123456/72.ts
+#EXTINF:-1,LOADING TV
+http://168.205.87.198:8555/live/elienecp/123456/142.ts
+#EXTINF:-1,MAP KIDS
+http://168.205.87.198:8555/live/elienecp/123456/143.ts
+#EXTINF:-1,MASTER TV
+http://168.205.87.198:8555/live/elienecp/123456/74.ts
+#EXTINF:-1,MEGA
+http://168.205.87.198:8555/live/elienecp/123456/75.ts
+#EXTINF:-1,MTV
+http://168.205.87.198:8555/live/elienecp/123456/76.ts
+#EXTINF:-1,MTV LIVE
+http://168.205.87.198:8555/live/elienecp/123456/140.ts
+#EXTINF:-1,MUSIC BOX
+http://168.205.87.198:8555/live/elienecp/123456/77.ts
+#EXTINF:-1,NAT GEO
+http://168.205.87.198:8555/live/elienecp/123456/78.ts
+#EXTINF:-1,NICKELODEON
+http://168.205.87.198:8555/live/elienecp/123456/80.ts
+#EXTINF:-1,PARAMOUNT
+http://168.205.87.198:8555/live/elienecp/123456/81.ts
+#EXTINF:-1,PRIME BOX
+http://168.205.87.198:8555/live/elienecp/123456/83.ts
+#EXTINF:-1,RATIMBUM
+http://168.205.87.198:8555/live/elienecp/123456/84.ts
+#EXTINF:-1,RECORD MINAS
+http://168.205.87.198:8555/live/elienecp/123456/96.ts
+#EXTINF:-1,RECORD NEWS
+http://168.205.87.198:8555/live/elienecp/123456/97.ts
+#EXTINF:-1,REDE GENESIS
+http://168.205.87.198:8555/live/elienecp/123456/98.ts
+#EXTINF:-1,REDE METROPOLE
+http://168.205.87.198:8555/live/elienecp/123456/99.ts
+#EXTINF:-1,REDE MINAS
+http://168.205.87.198:8555/live/elienecp/123456/101.ts
+#EXTINF:-1,REDE TV
+http://168.205.87.198:8555/live/elienecp/123456/102.ts
+#EXTINF:-1,REDE VIDA
+http://168.205.87.198:8555/live/elienecp/123456/103.ts
+#EXTINF:-1,SBT ALTEROSA
+http://168.205.87.198:8555/live/elienecp/123456/104.ts
+#EXTINF:-1,SCH
+http://168.205.87.198:8555/live/elienecp/123456/105.ts
+#EXTINF:-1,SECULO 21
+http://168.205.87.198:8555/live/elienecp/123456/106.ts
+#EXTINF:-1,SESC TV
+http://168.205.87.198:8555/live/elienecp/123456/107.ts
+#EXTINF:-1,SPACE
+http://168.205.87.198:8555/live/elienecp/123456/110.ts
+#EXTINF:-1,TCM
+http://168.205.87.198:8555/live/elienecp/123456/112.ts
+#EXTINF:-1,TNT SÉRIES
+http://168.205.87.198:8555/live/elienecp/123456/117.ts
+#EXTINF:-1,TNT
+http://168.205.87.198:8555/live/elienecp/123456/116.ts
+#EXTINF:-1,TRAVEL
+http://168.205.87.198:8555/live/elienecp/123456/124.ts
+#EXTINF:-1,TRUTV
+http://168.205.87.198:8555/live/elienecp/123456/130.ts
+#EXTINF:-1,TV APARECIDA
+http://168.205.87.198:8555/live/elienecp/123456/131.ts
+#EXTINF:-1,TV BRASIL 2
+http://168.205.87.198:8555/live/elienecp/123456/135.ts
+#EXTINF:-1,TV BRASIL
+http://168.205.87.198:8555/live/elienecp/123456/134.ts
+#EXTINF:-1,TV CÂMARA
+http://168.205.87.198:8555/live/elienecp/123456/136.ts
+#EXTINF:-1,TV ESCOLA
+http://168.205.87.198:8555/live/elienecp/123456/137.ts
+#EXTINF:-1,TV JUSTIÇA
+http://168.205.87.198:8555/live/elienecp/123456/138.ts
+#EXTINF:-1,TV SENADO
+http://168.205.87.198:8555/live/elienecp/123456/139.ts
+#EXTINF:-1,VRT CHANNEL
+http://168.205.87.198:8555/live/elienecp/123456/146.ts
+#EXTINF:-1,WOOHOO
+http://168.205.87.198:8555/live/elienecp/123456/141.ts
+#EXTINF:-1,RÁDIO BOSSA NOVA
+http://168.205.87.198:8555/live/elienecp/123456/85.ts
+#EXTINF:-1,RÁDIO FESTA
+http://168.205.87.198:8555/live/elienecp/123456/86.ts
+#EXTINF:-1,RÁDIO LOUNGE
+http://168.205.87.198:8555/live/elienecp/123456/87.ts
+#EXTINF:-1,RÁDIO METAL
+http://168.205.87.198:8555/live/elienecp/123456/89.ts
+#EXTINF:-1,RÁDIO MÚSICA CLÁSSICA
+http://168.205.87.198:8555/live/elienecp/123456/88.ts
+#EXTINF:-1,RÁDIO NEW ROCK
+http://168.205.87.198:8555/live/elienecp/123456/90.ts
+#EXTINF:-1,RÁDIO TRILHAS SONORAS
+http://168.205.87.198:8555/live/elienecp/123456/95.ts
+#EXTINF:-1,RÁDIO PAGODE
+http://168.205.87.198:8555/live/elienecp/123456/91.ts
+#EXTINF:-1,RÁDIO POP HITS
+http://168.205.87.198:8555/live/elienecp/123456/92.ts
+#EXTINF:-1,RÁDIO POP ROCK
+http://168.205.87.198:8555/live/elienecp/123456/93.ts
+#EXTINF:-1, Guia de Canais
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848732-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=051f3c1e-eeef-459d-b6b9-8b3a25af4b87&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Cine Sucessos
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Filmes Ação
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Cine Comédia
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07b16472-d071-4d2e-ad98-ab98754a4428&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Cine Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e2a43ad8-1b74-43eb-8a1c-af669d97a71e&userId=&serverSideAds=true
+#EXTINF:-1, Filmes Suspense
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Cine Terror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3ff7f4f3-233d-4e09-bbf7-e36a061d79f7&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Filmes Nacionais
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5762a61-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8784fb7f-5209-406d-b66a-2fe035ee1a18&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Cine Família
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c811-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=30398c0d-72c1-4ff3-927f-d52a8f3d9300&userId=&serverSideAds=true
+#EXTINF:-1, Paramount+ Apresenta
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Séries
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d54d8e7b-d3f3-44cd-ac61-95ff7aa498d3&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Retrô
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
+#EXTINF:-1, MTV Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3887c04b-bb4b-49b8-8511-47613f5cadbb&userId=&serverSideAds=true
+#EXTINF:-1, MTV Are you the One?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
+#EXTINF:-1, People are Awesome
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821630-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d3401ffe-5054-4e86-94f4-9056a358ddad&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Anime
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
+#EXTINF:-1, Naruto
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97826450-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ff24521-c218-4cf1-9a6e-e54f76667c9b&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Investigação
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Vida Real
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef21-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29b136d2-3f75-488b-9ace-35ab0ac5684e&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Natureza
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&userId=&serverSideAds=true
+#EXTINF:-1, FailArmy
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
+#EXTINF:-1, The Pet Collective
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821631-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25075146-4d3f-4138-a177-5d8a41b330d4&userId=&serverSideAds=true
+#EXTINF:-1, Porta dos Fundos
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
+#EXTINF:-1, Tastemade
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9784ae40-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c4b7db2-88f3-4c00-8114-c9f5bcca8459&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Fashionbox
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821632-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a1c0715-7e54-4c98-b40d-facafa1841d1&userId=&serverSideAds=true
+#EXTINF:-1, Babyfirst
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Junior
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
+#EXTINF:-1, Nick Jr. Club
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
+#EXTINF:-1, As  Pistas de Blue
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848730-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9f2c6ce-d387-42e3-a5c5-c919c5d33252&userId=&serverSideAds=true
+#EXTINF:-1, O Reino Infantil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
+#EXTINF:-1, Turma da Mônica
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
+#EXTINF:-1, Pluto TV Kids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a101-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46e9fe4e-4908-4a98-8fa8-41e5460e3ce5&userId=&serverSideAds=true
+#EXTINF:-1, Nick Clássico
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&userId=&serverSideAds=true
+#EXTINF:-1, A Vida moderna de Rocko
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846020-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c2c3d24-7129-4534-95c8-5bbb6a0ce9f6&userId=&serverSideAds=true
+#EXTINF:-1,TV PONTA DA SERRA
+https://srv2.zcast.com.br/juanes1546/juanes1546/playlist.m3u8
+#EXTINF:-1,TV XTREME
+https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/chunklist_w469832076.m3u8
+#EXTINF:-1,All Sports TV
+https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8
+#EXTINF:-1,Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1,Bons Tempos TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+#EXTINF:-1,CTV
+https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1373090659.m3u8
+#EXTINF:-1,Canal 29 Web TV
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1913464202.m3u8
+#EXTINF:-1,Cine Livre 2
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+#EXTINF:-1,Cine Trianon TV
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w564310084.m3u8
+#EXTINF:-1,Retrô Cartoon
+https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
+#EXTINF:-1,Summer TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
+#EXTINF:-1,TV Manchete Web TV
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:-1,TV Séries A Mulher Biônica
+https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
+#EXTINF:-1,TV Séries As Panteras
+https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1,TV Séries Star Trek
+https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
+#EXTINF:-1,Vintage TV
+https://stmv1.srvstm.com:443/rogerio4248/rogerio4248/chunklist_w2046020600.m3u8
+#EXTINF:-1,YEEAAH
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1,Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1,Bons Tempos TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+#EXTINF:-1,Canal 29 Web TV
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1913464202.m3u8
+#EXTINF:-1,Cine Livre 2
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+#EXTINF:-1,Retrô Cartoon
+https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
+#EXTINF:-1,Summer TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
+#EXTINF:-1,TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+#EXTINF:-1,TV Séries A Mulher Biônica
+https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
+#EXTINF:-1,TV Séries As Panteras
+https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1,TV Séries Star Trek
+https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
+#EXTINF:-1,Vintage TV
+https://stmv1.srvstm.com:443/rogerio4248/rogerio4248/chunklist_w2046020600.m3u8
+#EXTINF:-1,YEEAAH
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1,All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1,Eurosport 1(Espanhol)
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/chunklist_w1626503379_b1328000_sling.m3u8
+#EXTINF:-1,Red Bull TV(inglês)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1,WooHoo
+http://177.20.208.58:8000/play/a022/index.m3u8
+#EXTINF:-1,1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+#EXTINF:-1,Retrô Music
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1,KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1,Rock TV
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
+#EXTINF:-1,M2O
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1,Ocko Star
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+#EXTINF:-1, Tv Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1,DJ Hits
+http://www.djing.com/tv/04.m3u8
+#EXTINF:-1,Retro Music
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,ONE 0
+http://rtmp.one.by:1200
+#EXTINF:-1,ONE 1 HD
+http://rtmp.one.by:1300
+#EXTINF:-1,ONE 4 HD
+http://rtmp.one.by:2300
+#EXTINF:-1,Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1,Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1,Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1,Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:-1,Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1,Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:-1,Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:-1,New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:-1,Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1,Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:-1,Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+#EXTINF:-1, FM O DIA TV
+https://live.cdn.upx.com/omms9/myStream.sdp/chunklist.m3u8?e2a00069e2fd21162d5493a071a89a5f
+#EXTINF:-1,BIGMIX
+https://servidor39-1.brlogic.com:8130/live
+#EXTINF:-1, FM O DIA
+http://streaming.livecenterhost.com:8054/stream?type=http&nocache=45
+#EXTINF:-1,Estação SAT FM
+http://s32.maxcast.com.br:8022/live
+#EXTINF:-1,Vibe FM
+http://servidor36.brlogic.com:8180/live
+#EXTINF:-1,Vagalume Vibe
+https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
+#EXTINF:-1,Vagalume Funk
+https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
+#EXTINF:-1,Vagalume Sertanejo Hits
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+#EXTINF:-1,Vagalume Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+#EXTINF:-1,BH FM
+https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:-1, CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1, CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1, Mega FM
+http://216-155-149-152.webnow.com.br:80/mega.mp3
+#EXTINF:-1, Atlãndida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1, Transamerica
+http://transamerica.crossradio.com.br:9112/stream/1/
+#EXTINF:-1, Beat 98
+http://streaming13.hstbr.net:8072/live
+#EXTINF:-1, Antena 1 SP
+https://antenaone.crossradio.com.br/stream/1;?type=mp4
+#EXTINF:-1, Antena 1 RJ
+http://a1rj.streams.com.br:7801/sm
+#EXTINF:-1, Feliz FM BA
+http://felizfm.sateg.com.br:11520/stream/1/
+#EXTINF:-1, Difusora Acreana
+http://midia.ac.gov.br/difusora
+#EXTINF:-1, Aldeia FM 96.9 Rio Branco
+http://midia.ac.gov.br/aldeiafm
+#EXTINF:-1, Cultura FM 95.1
+http://srv04.brasilstream.com.br:8040/mp3
+#EXTINF:-1, HOT FM 107 SP
+http://flash8.crossdigital.com.br/id2266/id2266/chunklist_w1620551044.m3u8
+#EXTINF:-1, 89 FM A RADIO ROCK
+http://streamingV2.shoutcast.com:80/89-a-radio-rock-sao-paulo-
+#EXTINF:-1,NATGEO KIDS HD
+http://solutionplay.xyz:8080/techruthes/61897946/5973
+#EXTINF:-1,HBO HD
+http://solutionplay.xyz:8080/techruthes/61897946/5948
+#EXTINF:-1,ESPN HD
+http://solutionplay.xyz:8080/techruthes/61897946/5916
+#EXTINF:-1,CARTOON NETWORK HD
+http://solutionplay.xyz:8080/techruthes/61897946/5860
+#EXTINF:-1,SBT SP HD
+http://solutionplay.xyz:8080/techruthes/61897946/6368
+#EXTINF:-1,BAND SP HD
+http://solutionplay.xyz:8080/techruthes/61897946/6326
+#EXTINF:-1,GLOBO NEWS HD
+http://solutionplay.xyz:8080/techruthes/61897946/6108
+#EXTINF:-1,RECORD NEWS FHD
+http://solutionplay.xyz:8080/techruthes/61897946/6104
+#EXTINF:-1,GNT HD
+http://solutionplay.xyz:8080/techruthes/61897946/6076
+#EXTINF:-1,COMEDY CENTRAL HD
+http://solutionplay.xyz:8080/techruthes/61897946/6070
+#EXTINF:-1,GLOOB HD
+http://solutionplay.xyz:8080/techruthes/61897946/5935
+#EXTINF:-1,FOX SPORTS HD
+http://solutionplay.xyz:8080/techruthes/61897946/5932
+#EXTINF:-1,TELECINE FUN FHD
+http://solutionplay.xyz:8080/techruthes/61897946/6034
+#EXTINF:-1,REDE TV FHD
+http://solutionplay.xyz:8080/techruthes/61897946/6331
+#EXTINF:-1,HISTORY CHANNEL FHD
+http://solutionplay.xyz:8080/techruthes/61897946/5965
+#EXTINF:-1,ANIMAL PLANET FHD
+http://solutionplay.xyz:8080/techruthes/61897946/5847
+#EXTINF:-1,SPORTV HD
+http://solutionplay.xyz:8080/techruthes/61897946/6026
+#EXTINF:-1,PrimePlay Music (EM FASE DE TESTES)
+http://solutionplay.xyz:8080/techruthes/61897946/13873
+#EXTINF:-1, RÁDIO FM XANGRI-LÁ
+http://cast4.audiostream.com.br:8659/mp3
+#EXTINF:-1, RÁDIO FM TRAMANDAÍ
+http://cast4.audiostream.com.br:8658/mp3
+#EXTINF:-1, RÁDIO FM EXPRESS
+http://cast4.audiostream.com.br:8648/mp3
+#EXTINF:-1, RÁDIO FM TORRES
+http://cast4.audiostream.com.br:8661/mp3
+#EXTINF:-1, RÁDIO FM CIDREIRA
+http://cast4.audiostream.com.br:8657/mp3
+#EXTINF:-1,  BAND VALE FM
+http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
+#EXTINF:-1, BAND NEWS SP*
+http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+#EXTINF:-1, Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1, Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1, Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1, Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:-1, Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1, Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:-1, Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:-1, New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:-1, Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1, Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:-1, Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+#EXTINF:-1,IPTV BOX LIVRE (Atualização 07-06-2021 23:26) - CANAL DO USUÁRIO
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?Cortesia
+#EXTINF:-1,CINE LIVRE
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+#EXTINF:-1,CINE LIVRE 2
+https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist_w1963860689.m3u8
+#EXTINF:-1,CINE SUCESSOS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
+#EXTINF:-1,FILMES AÇÃO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
+#EXTINF:-1,CINE COMÉDIA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07b16472-d071-4d2e-ad98-ab98754a4428&userId=&serverSideAds=true
+#EXTINF:-1,GOSPEL MOVIES TELEVISION
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+#EXTINF:-1,CANAL 29 (Séries Antigas)
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w688155486.m3u8
+#EXTINF:-1,CENTRAL TV (TOP TV)
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w630183273.m3u8
+#EXTINF:-1,TV CARIOCA (Filmes e Séries)
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w645826328.m3u8
+#EXTINF:-1,ARACATI TV (Séries)
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV CAPITAL (Séries)
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+#EXTINF:-1,CINE DRAMA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e2a43ad8-1b74-43eb-8a1c-af669d97a71e&userId=&serverSideAds=true
+#EXTINF:-1,FILMES SUSPENSE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
+#EXTINF:-1,CINE TERROR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3ff7f4f3-233d-4e09-bbf7-e36a061d79f7&userId=&serverSideAds=true
+#EXTINF:-1,FILMES NACIONAIS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5762a61-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8784fb7f-5209-406d-b66a-2fe035ee1a18&userId=&serverSideAds=true
+#EXTINF:-1,CINE FAMILIA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c811-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=30398c0d-72c1-4ff3-927f-d52a8f3d9300&userId=&serverSideAds=true
+#EXTINF:-1,PARAMOUNT+ APRESENTA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
+#EXTINF:-1,SPYKE (Itália)
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-b.m3u8
+#EXTINF:-1,ZEE MUNDO
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1588722015-now.m3u8
+#EXTINF:-1,Wham TV Classic
+https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
+#EXTINF:-1,Wham TV
+https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
+#EXTINF:-1,TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+#EXTINF:-1,TV Séries A Mulher Biônica
+https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
+#EXTINF:-1,TV Séries As Panteras
+https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1,TV Séries Star Trek
+https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
+#EXTINF:-1,Vintage TV
+https://stmv1.srvstm.com:443/rogerio4248/rogerio4248/chunklist_w2046020600.m3u8
+#EXTINF:-1,TV TEENNET (Yeeaah)
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?TVTeenNet
+#EXTINF:-1,ANIMAX
+https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/chunklist_w361954479.m3u8
+#EXTINF:-1, DIARIO POPULAR IPTV / TV CIDADE DE SP
+https://cast.cdnseguro.com:19360/8012/8012.m3u8
+#EXTINF:-1,BET BRASIL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c76a3-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d20d49-b2d8-4725-9f02-e688df67da0e&userId=&serverSideAds=true
+#EXTINF:-1,TV SÉRIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d54d8e7b-d3f3-44cd-ac61-95ff7aa498d3&userId=&serverSideAds=true
+#EXTINF:-1,TV RETRÔ
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
+#EXTINF:-1,PORTA DOS FUNDOS (24H)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
+#EXTINF:-1,TASTEMADE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9784ae40-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c4b7db2-88f3-4c00-8114-c9f5bcca8459&userId=&serverSideAds=true
+#EXTINF:-1,FASHIONBOX
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821632-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a1c0715-7e54-4c98-b40d-facafa1841d1&userId=&serverSideAds=true
+#EXTINF:-1,LOUPE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c9db0-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a6e25a5-cd97-4493-beb5-5001da599dd1&userId=&serverSideAds=true
+#EXTINF:-1,NOSEY ESCÂNDALOS (24H)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d1fe1-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6293bb5c-4b9a-406f-b682-0d2353d080be&userId=&serverSideAds=true
+#EXTINF:-1,NOSEY CASOS (24H)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b096236af340008da3779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d1fe2-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86014374-e7ad-45ae-8295-232f35e77e5b&userId=&serverSideAds=true
+#EXTINF:-1,PEOPLE ARE AWESOME
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821630-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d3401ffe-5054-4e86-94f4-9056a358ddad&userId=&serverSideAds=true
+#EXTINF:-1,FAILARMY
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
+#EXTINF:-1,THE PET COLLECTIVE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821631-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25075146-4d3f-4138-a177-5d8a41b330d4&userId=&serverSideAds=true
+#EXTINF:-1,98 LIVE (Musica e Esporte)
+http://radio98fm-lh.akamaihd.net/i/pp_1@359238/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,CANAL ITV (Filmes e Series)
+http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/chunklist_w1051564014.m3u8
+#EXTINF:-1,CONECTV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1,LONDRINA TV
+https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist_w1963860689.m3u8
+#EXTINF:-1,CINE TRIANON
+https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
+#EXTINF:-1, CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1, CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1, HOT FM 107 SP
+http://flash8.crossdigital.com.br/id2266/id2266/chunklist_w1620551044.m3u8
+#EXTINF:-1,EL NUEVE (Internacional)
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w2091437466.m3u8
+#EXTINF:-1,TELEMAX (Internacional)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+#EXTINF:-1,TV MOÇAMBIQUE 1
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w195134477_b364000_slpor.m3u8
+#EXTINF:-1,TV MOÇAMBIQUE ESCOLA
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/chunklist_w975457649_b714000_slpor.m3u8
+#EXTINF:-1,Retrô Music
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1,KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1,Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1,Retro Plus TV 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1,KISS TV
+https://cast.cdnseguro.com:19360/8094/8094.m3u8
+#EXTINF:-1,YEEAAH
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1,REWIND TV
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+#EXTINF:-1,TV UNIÃO (Natal)
+https://5ea08e6dcbfc8.streamlock.net/tvuniao/_definst_/tvuniao/chunklist_w1845039606.m3u8
+#EXTINF:-1,MTV (Pluto)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3887c04b-bb4b-49b8-8511-47613f5cadbb&userId=&serverSideAds=true
+#EXTINF:-1,VH1 (Italia)
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&expand=simulcast_standard&exp=1515898109&rn=-1916303254&cid=36953f5b6546464590d2fcd954bc89cf&tc=1&sig=
+#EXTINF:-1,MTV BIGGEST POP
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e6cd0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5aadef90-1bb2-47f4-9f66-7ff231f9b031&userId=&serverSideAds=true
+#EXTINF:-1,MTV LA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc95b5a4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f1fd841-fd6e-49be-bb84-da43ca4e4c75&userId=&serverSideAds=true
+#EXTINF:-1,MTV (Norge)
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,MTV LOVE MUSIC
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a90c60-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ce1406d-d3eb-45e3-92bf-e70ae14e4d89&userId=&serverSideAds=true
+#EXTINF:-1,MTV YO!
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e45c2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dfeb1d80-be28-4be3-b669-23fa79a8aec7&userId=&serverSideAds=true
+#EXTINF:-1,MTV CLASSICS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6d596d73-9b23-11eb-8db9-9f6d66a0f287&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8de25fe4-f5fb-4daf-bf84-2e928f8f9c4b&userId=&serverSideAds=true
+#EXTINF:-1,MTV CLASSIC
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae22-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=660d0b2a-7fb6-45ce-9752-4b5be4f0e398&userId=&serverSideAds=true
+#EXTINF:-1, MTV Animaciones (Espanhol)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27172-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5ee82024-6fd5-4fd7-b68f-606316a1738b&userId=&serverSideAds=true
+#EXTINF:-1,TV ANIME
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
+#EXTINF:-1,NARUTO (24H)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97826450-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ff24521-c218-4cf1-9a6e-e54f76667c9b&userId=&serverSideAds=true
+#EXTINF:-1,TOKUSATO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
+#EXTINF:-1,ON TV
+https://video02.kshost.com.br/rodrigo8762/rodrigo8762/chunklist_w2002346323.m3u8?t=1624764601
+#EXTINF:-1,LOCOMOTION (Espanhol)
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1,Anime TV (Espanhol)
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1,ALX TV
+https://srv3.zcast.com.br/alxtv/alxtv/playlist.m3u8
+#EXTINF:-1,UM HITS (1Mus)
+http://rtmp.one.by:1200
+#EXTINF:-1,TV 538
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q4.m3u8
+#EXTINF:-1,DEEJAY TV (Itália)
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:-1,RETRO TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1,1 MUSIC CHANNEL (Romênia) Demora para carregar
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w426998597.m3u8
+#EXTINF:-1,1 MUSIC CHANNEL (Demora para carregar)
+http://1music.hu/1music.m3u8
+#EXTINF:-1,SEXY KPOP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1,H!T MUSIC CHANNEL
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1,RETRO CARTOON (Desenhos Antigos)
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1,NICK JR CLUB
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
+#EXTINF:-1,BABY FIRST
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+#EXTINF:-1,TV JUNIOR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
+#EXTINF:-1,TV KIDS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a101-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46e9fe4e-4908-4a98-8fa8-41e5460e3ce5&userId=&serverSideAds=true
+#EXTINF:-1,NICK CLÁSSICO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&userId=&serverSideAds=true
+#EXTINF:-1,PLAYKIDS HD
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,PLAYKIDS
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,O REINO INFANTIL (24H)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
+#EXTINF:-1,TURMA DA MÔNICA (24H)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
+#EXTINF:-1,AS PISTAS DE BLUE (24H)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848730-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9f2c6ce-d387-42e3-a5c5-c919c5d33252&userId=&serverSideAds=true
+#EXTINF:-1,A VIDA MODERNA DE ROCKO (24H)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846020-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c2c3d24-7129-4534-95c8-5bbb6a0ce9f6&userId=&serverSideAds=true
+#EXTINF:-1,GOSPEL CARTOON
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w1120351118.m3u8
+#EXTINF:-1,KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+#EXTINF:-1,3ABN KIDS
+https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/SQs/chunklist.m3u8
+#EXTINF:-1,RECORD NEWS
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,RECORD NEWS RS (TV Sim)
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1121778449.m3u8
+#EXTINF:-1,BAND NEWS
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+#EXTINF:-1,RAI NEWS 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1,FRANCE 24
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1,RT INTERNACIONAL
+http://rt-usa.secure.footprint.net:80/1105.m3u8?streamType=live%20
+#EXTINF:-1,DW INTERNACIONAL
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,THE WEATHER CHANNEL
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,CBS NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,98 LIVE (Musica e Esporte)
+http://radio98fm-lh.akamaihd.net/i/pp_1@359238/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,ALL SPORTS BR
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1650280825.m3u8
+#EXTINF:-1,RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,DUBAI RACING 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,TV INVESTIGAÇÃO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
+#EXTINF:-1,TV VIDA REAL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef21-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29b136d2-3f75-488b-9ace-35ab0ac5684e&userId=&serverSideAds=true
+#EXTINF:-1,TV NATUREZA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&userId=&serverSideAds=true
+#EXTINF:-1,GLOBO (Cortesia)
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1,SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
+#EXTINF:-1,SBT
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1,BAND HD
+https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1723365796.m3u8
+#EXTINF:-1,REDETV! (Tocantins)
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w243720441.m3u8
+#EXTINF:-1,REDETV! RJ
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+#EXTINF:-1,RECORD TV HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1,RECORD TV
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+#EXTINF:-1,RECORD NEWS (TV Guará)
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
+#EXTINF:-1,REDE FAMÍLIA
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+#EXTINF:-1,ALL SPORTS BR
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1650280825.m3u8
+#EXTINF:-1,YEEAAH
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1,TV BRUSQUE (Rede Brasil)
+https://59f1cbe63db89.streamlock.net:1443/tvbrusque/_definst_/tvbrusque/chunklist_w182940905.m3u8
+#EXTINF:-1,REDE METRÓPOLE (Rede Meio Norte)
+http://187.33.200.235:9000/hls/redemetropole.m3u8
+#EXTINF:-1,TV 8 RO
+https://stmv3.samcast.com.br/jose8272/jose8272/chunklist_w1342332292.m3u8
+#EXTINF:-1,FUTURA (FDR)
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w419558084.m3u8
+#EXTINF:-1,TV CULTURA HD (Catve)
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV CULTURA (Futuro)
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1,TV BRASIL (TVE Bahia)
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV BRASIL (TVE Brasil)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,TV BRASIL (TV Sim - São Matheus-ES)
+https://5cf4a2c2512a2.streamlock.net/8236/8236/chunklist_w1647474200.m3u8
+#EXTINF:-1,TV BRASIL (TV Sim - Colatina-ES)
+https://5cf4a2c2512a2.streamlock.net/8132/8132/chunklist_w1563478564.m3u8
+#EXTINF:-1,TV SIM (Linhares-ES)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w1435836547.m3u8
+#EXTINF:-1,NOVA TV VALE
+https://5b7f3c45ab7c2.streamlock.net/8016/ngrp:8016/chunklist_w1899225291_b828000_DVR.m3u8
+#EXTINF:-1,TV METRÓPOLE
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w2133373253.m3u8
+#EXTINF:-1,TV POÇOS
+https://live.cdn.upx.com/00084/myStream.sdp/chunklist.m3u8?55e983619eed8fb6a2072cd4fb962114
+#EXTINF:-1,TV METROPOLITANA (RJ)
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w936575810.m3u8
+#EXTINF:-1,TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF:-1,TV COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+#EXTINF:-1,TV CARAVELAS (TV COM BRASIL)
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chunklist_w1131983888.m3u8
+#EXTINF:-1,TVCI (Pai Eterno)
+http://flash8.crossdigital.com.br/2306/2306/chunklist_w1964766277.m3u8
+#EXTINF:-1,TV GAZETA (TV Alternativa)
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+#EXTINF:-1,TV GAZETA MA
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8?wowzasessionid=37902564
+#EXTINF:-1,REDE LIBERDADE
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+#EXTINF:-1,REDE UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1656747096.m3u8
+#EXTINF:-1,TV SOL
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1,TV KIDMAIS
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
+#EXTINF:-1,TV NOVA ONDA
+https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w616485768.m3u8
+#EXTINF:-1,TV ALTIORA
+https://live.desdobrar.com/hls/altiora.m3u8
+#EXTINF:-1,ALL TV
+https://cdn.jmvstream.com/w/AVJ-9086/playlist/playlist.m3u8
+#EXTINF:-1,AWC CHANNEL
+https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
+#EXTINF:-1,AMERCIA HORROR CHANNEL
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1,TV MAIS NOTICIAS
+http://eventials-i.akamaihd.net/hls/live/746370/uymfm3v51659vk7t/playlist.m3u8
+#EXTINF:-1,GNMTV
+https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/chunklist_w1107061616.m3u8
+#EXTINF:-1,SERTÃO TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1172238546.m3u8
+#EXTINF:-1,TV CENTRO SUL
+https://novo.bitstreaming.info:1936/tvcentrosultvstation/tvcentrosultvstation/chunklist_w669581959.m3u8
+#EXTINF:-1,TV CIDADE TIRADENTES
+https://novo.bitstreaming.info:1936/8284/8284/chunklist_w1727648533.m3u8
+#EXTINF:-1,TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1,TV GALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
+#EXTINF:-1,TV GUARULHOS
+http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
+#EXTINF:-1,TV HORA 1
+https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/chunklist_w96738037.m3u8
+#EXTINF:-1,TV JORNAL DO NORDESTE
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1033376554.m3u8
+#EXTINF:-1,TV SERTÃO PETROLINA
+https://59f2354c05961.streamlock.net:1443/sertao/_definst_/sertao/chunklist_w852883333.m3u8
+#EXTINF:-1,TVN BRASIL
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1,TV PROGRESSO
+https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chunklist_w755298038.m3u8
+#EXTINF:-1,Bons Tempos TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+#EXTINF:-1,RECORD NEWS
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1,VRT Channel
+https://5f1ce9c7dc62b.streamlock.net/vrtchannel/vrtchannel/playlist.m3u8
+#EXTINF:-1,SOUL TV (Guia de Canais)
+https://5f1ce9c7dc62b.streamlock.net/soultv/soultv/chunklist_w2008380999.m3u8
+#EXTINF:-1,TV APARECIDA
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTINF:-1,TV PAI ETERNO (RCI)
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1606625831.m3u8
+#EXTINF:-1,TV EVANGELIZAR
+https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w1720504677.m3u8
+#EXTINF:-1,NOVO TEMPO SP
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
+#EXTINF:-1,NOVO TEMPO RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,REDE GOSPEL
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:-1,IMPD TV / REDE MUNDIAL
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,REDE ESTAÇÃO / REDE BRASIL
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1,TV PLENITUDE (IAPTD)
+https://meupainel.top:1936/iaptd/iaptd/chunklist_w1503824504.m3u8
+#EXTINF:-1,TERCEIRO ANJO
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV VERDADE
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,AGRO+
+https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w637165745.m3u8
+#EXTINF:-1,TERRA VIVA
+https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w778258278.m3u8
+#EXTINF:-1,CANAL RURAL
+https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/chunklist_w1134530423_b1685000_sleng.m3u8
+#EXTINF:-1,CANAL DO BOI
+https://equipea.com.br/player/jsonHora.ashx?canal=canaldoboi
+#EXTINF:-1,AGRO CANAL
+https://equipea.com.br/player/jsonHora.ashx?canal=agrocanal
+#EXTINF:-1,CANAL DO CRIADOR
+https://5fa18afd2e74c.streamlock.net/live/smil:canaldocriador.smil/chunklist_w142616410_b1685000_sleng.m3u8
+#EXTINF:-1,TV PARANÁ TURISMO
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1,REDE MINAS
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1261568.m3u8?sts=st=1620939505~exp=1620946105~acl=/*~hmac=aea61ad54059ca5d88989bf4e4e84be9f03477727cbff455907e94c23791d886
+#EXTINF:-1,TV BRASIL GOV (NBR)
+https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_720/index.m3u8
+#EXTINF:-1,GAZETA NORTE MINEIRO
+https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
+#EXTINF:-1,TV CAMARA TUPÃ
+http://video.sinoinformatica.com.br:1935/cmtupa-live/sessaoaovivo/chunklist_w1112451954.m3u8
+#EXTINF:-1,TRANSAMÉRICA FM
+http://transamerica.crossradio.com.br:9114/live.mp3?LISTABRBRASIL
+#EXTINF:-1,COCA COLA FM
+http://listen.181fm.com:7080/181-power_128k.mp3
+#EXTINF:-1,JOVEM PAN FM
+http://hts02.kshost.com.br:8732/;stream/1
+#EXTINF:-1,MAGIC FM
+http://argentina.republicahosting.com:8158/;
+#EXTINF:-1,(NAÇÃO) SANDY & JUNIOR
+https://servidor34-1.brlogic.com:8194/live
+#EXTINF:-1,BH FM
+https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:-1,BAND FM (Vale)
+http://162.244.80.106:11011/;stream/1
+#EXTINF:-1,NATIVA FM
+https://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
+#EXTINF:-1,RÁDIO MANIA
+http://shout35.crossradio.com.br:8086/1/;stream/1
+#EXTINF:-1,JOVEM PAN NEWS
+http://hts03.kshost.com.br:8466/live
+#EXTINF:-1,BANDEIRANTES FM/AM
+https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
+#EXTINF:-1,BAND NEWS FM
+https://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+#EXTINF:-1,ANTENA 1
+http://108.61.43.2:8232/stream2?sid=2/stream
+#EXTINF:-1,GLOBO FM
+https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+#EXTINF:-1,BAND FM
+https://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8
+#EXTINF:-1,KISS FM
+http://cloud2.cdnseguro.com:23538/stream
+#EXTINF:-1, Mega FM
+http://216-155-149-152.webnow.com.br:80/mega.mp3
+#EXTINF:-1, Atlãndida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1, Transamerica
+http://transamerica.crossradio.com.br:9112/stream/1/
+#EXTINF:-1, Beat 98
+http://streaming13.hstbr.net:8072/live
+#EXTINF:-1, Band FM SP
+http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w845145933.m3u8
+#EXTINF:-1, Antena 1 SP
+https://antenaone.crossradio.com.br/stream/1;?type=mp4
+#EXTINF:-1, Antena 1 RJ
+http://a1rj.streams.com.br:7801/sm
+#EXTINF:-1, Feliz FM BA
+http://felizfm.sateg.com.br:11520/stream/1/
+#EXTINF:-1, Difusora Acreana
+http://midia.ac.gov.br/difusora
+#EXTINF:-1, Aldeia FM 96.9 Rio Branco
+http://midia.ac.gov.br/aldeiafm
+#EXTINF:-1, Cultura FM 95.1
+http://srv04.brasilstream.com.br:8040/mp3
+#EXTINF:-1, 89 FM A RADIO ROCK
+http://streamingV2.shoutcast.com:80/89-a-radio-rock-sao-paulo-
+#EXTINF:-1,Rádio Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+#EXTINF:-1,Rádio Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+#EXTINF:-1,Rádio Anos 2000
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+#EXTINF:-1,Rádio Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+#EXTINF:-1,Rádio Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+#EXTINF:-1,Rádio J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+#EXTINF:-1,Rádio Românticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+#EXTINF:-1,Rádio R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+#EXTINF:-1,Rádio K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+#EXTINF:-1,Rádio Folk
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+#EXTINF:-1,Rádio Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#EXTINF:-1,Rádio Gospel
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+#EXTINF:-1,Rádio Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+#EXTINF:-1,Rádio Rock
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+#EXTINF:-1,Rádio Forró
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+#EXTINF:-1,Rádio Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+#EXTINF:-1,Rádio Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+#EXTINF:-1,Rádio Eletrônica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+#EXTINF:-1,Rádio Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+#EXTINF:-1,Rádio Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+#EXTINF:-1,Rádio Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+#EXTINF:-1,Rádio Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+#EXTINF:-1,Rádio Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+#EXTINF:-1,Rádio MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+#EXTINF:-1,Rádio Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+
+
+
+
+
+
+
+
